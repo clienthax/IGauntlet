@@ -1,4 +1,4 @@
-package com.jmteam.igauntlet.common.blocks.stoneholders;
+package com.jmteam.igauntlet.common.blocks;
 
 import com.jmteam.igauntlet.common.init.InfinityItems;
 import com.jmteam.igauntlet.common.tileentity.TileTesseract;
