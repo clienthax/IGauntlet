@@ -1,5 +1,6 @@
 {
-	"credit": "Made by Poltergeist",
+	"credit": "Made with Blockbench",
+	"parent": "walkman",
 	"textures": {
 		"0": "igauntlet:items/walkman",
 		"particle": "igauntlet:items/walkman"
